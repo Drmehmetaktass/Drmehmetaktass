@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   
 <h3 align="left">Sosyal Medya:</h3>
 <p align="left">
-<a href="https://instagram.com/drmehmetaktass" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="drmehmetaktass" height="30" width="40" /></a>
+<a href="https://instagram.com/dr.mehmetaktass" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="drmehmetaktass" height="30" width="40" /></a>
 <a href="https://t.me/drmehmetaktass" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="drmehmetaktass" height="30" width="40" /></a>
 </p>
 
